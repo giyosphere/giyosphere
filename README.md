@@ -1,4 +1,5 @@
 ## Hi there 👋
+<abbr title="I love coding!">❤️</abbr>
 
 <!--
 **giyosphere/giyosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
