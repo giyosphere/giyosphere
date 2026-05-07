@@ -1,5 +1,6 @@
 ## Hi there 👋
-<abbr title="I love coding!">❤️</abbr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E3A5F&width=435&lines=Full-stack+Developer;React+%7C+Node.js+%7C+SQLite;Building+School+Systems+🏫)](https://git.io/typing-svg)
+
 
 <!--
 **giyosphere/giyosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
