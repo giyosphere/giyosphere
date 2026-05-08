@@ -4,10 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Full+Stack+Developer+%7C+React.js+-+Node.js+-+Express.js+-+MongoDB" />
-</p>
-<p align="center">
-  <em>"Code the back, design the front, ship the whole thing."</em>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Code+the+back%2C+design+the+front%2C+ship+the+whole+thing." />
 </p>
 
 
