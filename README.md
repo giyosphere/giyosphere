@@ -4,7 +4,7 @@
 </h1>
 
  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Full+Stack+Developer+%7C+React.js+-+Node.js+-+Express.js+-+MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Full+Stack+Developer+%7C+React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB" />
 </p>
 
 
