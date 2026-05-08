@@ -4,9 +4,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Code+the+back%2C+design+the+front%2C+ship+the+whole+thing." />
-</p>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&width=750&duration=5000&pause=2000&lines=Code+the+back%2C+design+the+front%2C+ship+the+whole+thing." />
+</p
 
 <!--
 **giyosphere/giyosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
