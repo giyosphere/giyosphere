@@ -3,8 +3,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
- <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Full+Stack+Developer+%7C+React.js+%7C+Node.js+%7C+Express.js+%7C+MongoDB" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0AC4E0&size=22&lines=Full+Stack+Developer+%7C+React.js+-+Node.js+-+Express.js+-+MongoDB" />
+</p>
+<p align="center">
+  <em>"Code the back, design the front, ship the whole thing."</em>
 </p>
 
 
