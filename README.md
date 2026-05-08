@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 <p align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=0000FF&size=22&lines=Hi+I'm+Juan;I+love+coding!)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=0000FF&size=22&lines=Hi+I%27m+Juan;I+love+coding" />
 </p>
 
 <!--
