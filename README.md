@@ -2,8 +2,9 @@
   Hi There! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=0000FF&lines=Your+text+here;Another+line+here)th=435&lines=Full-stack+Developer;React+%7C+Node.js+%7C+%MongoDB;Express.js)]
-
+<p align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=0000FF&size=22&lines=Hi+I'm+Juan;I+love+coding!)
+</p>
 
 <!--
 **giyosphere/giyosphere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
